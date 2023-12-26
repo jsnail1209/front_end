@@ -1,5 +1,4 @@
-html5, css, javascript 연습
-21.12
+웹 사이트 만들기 연습 (20.03 ~ 20.06)
 ![image](https://github.com/jsnail1209/front_end/assets/103093755/b7b73e71-03a3-4304-9f84-e61098c783dd)
 
 Jquery
