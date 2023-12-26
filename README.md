@@ -1,6 +1,6 @@
 웹 사이트 만들기 연습 (2020.03 ~ 2020.06)
 
-<img src = "https://github.com/jsnail1209/front_end/blob/main/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.png" width="1080" height="720">
+<img src = "https://github.com/jsnail1209/front_end/blob/main/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8.png" width="540" height="360">
 
 Jquery
 - 드롭다운 메뉴 구현
