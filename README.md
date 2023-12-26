@@ -4,7 +4,7 @@ html5, css, javascript 연습
 
 자바스크립트[제이쿼리]
 - 내부 메뉴 표시
-![녹음 2023-12-26 220747](https://github.com/jsnail1209/front_end/assets/103093755/6ba545e2-13be-4806-b411-c1603a3e1c44)
+![녹음 2023-12-26 220747](https://github.com/jsnail1209/front_end/assets/103093755/6ba545e2-13be-4806-b411-c1603a3e1c44){: width="100" height="100"}
 ```
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
