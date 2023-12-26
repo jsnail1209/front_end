@@ -4,7 +4,7 @@ html5, css, javascript 연습
 
 자바스크립트[제이쿼리]
 - 내부 메뉴 표시
-<img src = "https://github.com/jsnail1209/front_end/blob/main/jquery.gif">
+<img src = "https://github.com/jsnail1209/front_end/blob/main/jquery.gif" width="200" height="200">
 ```
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
